@@ -338,3 +338,4 @@ wb
 Cfaerber
 Yug
 Inkscape
+bibtexparser
