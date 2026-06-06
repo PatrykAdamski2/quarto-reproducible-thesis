@@ -350,3 +350,10 @@ validate_bib_entry
 bib_entry
 entry_doi
 doi_to_bibtex
+MCSE
+mcse
+exc
+exe
+len
+ok
+utf
