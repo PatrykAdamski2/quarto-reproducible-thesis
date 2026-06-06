@@ -357,3 +357,5 @@ exe
 len
 ok
 utf
+RequestException
+lstrip
