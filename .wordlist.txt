@@ -389,3 +389,5 @@ ok
 utf
 RequestException
 lstrip
+Patryk
+Adamski
